@@ -27,10 +27,10 @@ Full-Stack Developer Intern | mynext.guru | December 2021 - Present |
 
 ## Github Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Destructor007&theme=dracula" alt="DebobrataPal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev-Debobrata&theme=dracula" alt="DebobrataPal" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Destructor007&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="DebobrataPal"" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Debobrata&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact" alt="DebobrataPal"" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Destructor007&theme=dracula&show_icons=true&count_private=true&locale=en" alt="DebobrataPal"" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Debobrata&theme=dracula&show_icons=true&count_private=true&locale=en" alt="DebobrataPal"" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Destructor007&theme=dracula&" alt="DebobrataPal"" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Debobrata&theme=dracula&" alt="DebobrataPal"" /></p>
