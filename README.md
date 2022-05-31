@@ -1,6 +1,6 @@
 ![](./images/dev-debobrata.jpeg)
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Debobrata Pal</h2>
-<h3 align="center">A young professional who is self-motivated and eager to work on Full Stack Web Development, Devops and Web Security.</h3>
+<h3 align="center">A young professional who is self-motivated and eager to work on Full Stack Web Development, Devops and Cloud Technology.</h3>
 
 - 🔭 I’m currently working on **E-commerce website**
 - 🌱 I’m currently learning **React.js** and **Next.js**
