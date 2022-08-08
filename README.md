@@ -3,7 +3,7 @@
 <h3 align="center">A young professional who is self-motivated and eager to work on Full Stack Web Development, Devops and Cloud Technology.</h3>
 
 - 🔭 I’m currently working on **E-commerce website**
-- 🌱 I’m currently learning **React.js** and **Next.js**
+- 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Full Stack projects**
 - 💬 Ask me about **Javascript, Node.js, React.js, Next.js, AWS etc.**
 - 📫 How to reach me: **dev.debobratapal@gmail.com**
