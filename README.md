@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **E-commerce website**
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Full Stack projects**
-- 💬 Ask me about **Javascript, Node.js, React.js, Next.js, AWS etc.**
+- 💬 Ask me about **Javascript, Node.js, React.js, Next.js etc.**
 - 📫 How to reach me: **dev.debobratapal@gmail.com**
 - ⚡ Fun fact: I’m a **self-taught programmer**
 
