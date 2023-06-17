@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Amazon Web Services**
 - 👯 I’m looking to collaborate on **Full Stack projects**
 - 💬 Ask me about **MERN Stack, AWS, DevOps etc.**
-- 📫 How to reach me: **dev.debobratapal@gmail.com**
+- 📫 How to reach me: **contact@debobrata.me**
 - ⚡ Fun fact: I’m a **self-taught programmer**
 
 ## Contact Me
