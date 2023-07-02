@@ -31,8 +31,8 @@
 
 |       💼 Designation        | 🏢Organization |        ⏰Duration        |
 | :-------------------------: | :------------: | :----------------------: |
-| Full-Stack Developer Intern |  mynext.guru   | October 2021 - July 2022 |
-|    Full-Stack Developer     |  mynext.guru   |  August 2022 - present   |
+| Full-Stack Developer Intern |  mynext.guru   | October 2021 - December 2021 |
+|    Full-Stack Developer     |  mynext.guru   |  January 2022 - present   |
 
 <Br />
 
