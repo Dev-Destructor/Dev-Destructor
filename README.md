@@ -29,9 +29,10 @@
 
 ## Work Experience
 
-|    💼 Designation    |   🏢Organization    |       ⏰Duration       |
-| :------------------: | :-----------------: | :--------------------: |
-| Full-Stack Developer | GoskyTech Softwares | October 2021 - present |
+|       💼 Designation        | 🏢Organization |        ⏰Duration        |
+| :-------------------------: | :------------: | :----------------------: |
+| Full-Stack Developer Intern |  mynext.guru   | October 2021 - July 2022 |
+|    Full-Stack Developer     |  mynext.guru   |  August 2022 - present   |
 
 <Br />
 
