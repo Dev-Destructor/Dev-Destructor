@@ -9,11 +9,11 @@
   A young professional who is self-motivated and eager to work on Full Stack Web Development, Devops and Cloud Technology.
 </h3>
 
-- 🔭 I’m currently working on **Blogging Site**
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🔭 I’m currently working on **Open Source Contribution**
+- 🌱 I’m currently learning **Different System Architectures**
 - 👯 I’m looking to collaborate on **Full Stack projects**
 - 💬 Ask me about **MERN Stack, AWS, DevOps etc.**
-- 📫 How to reach me: **dev.debobratapal@gmail.com**
+- 📫 How to reach me: **contact@debobrata.me**
 - ⚡ Fun fact: I’m a **self-taught programmer**
 
 ## Contact Me
@@ -29,10 +29,9 @@
 
 ## Work Experience
 
-|       💼 Designation        | 🏢Organization |        ⏰Duration        |
-| :-------------------------: | :------------: | :----------------------: |
-| Full-Stack Developer Intern |  mynext.guru   | October 2021 - July 2022 |
-|    Full-Stack Developer     |  mynext.guru   |  August 2022 - present   |
+|    💼 Designation    |   🏢Organization    |       ⏰Duration       |
+| :------------------: | :-----------------: | :--------------------: |
+| Full-Stack Developer | GoskyTech Softwares | October 2021 - present |
 
 <Br />
 
@@ -101,8 +100,8 @@
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo db" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="redis" width="40" height="40"/> 
 </a>
 <a href="https://www.redis.io" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
@@ -157,7 +156,7 @@
 
 ## Github Stats
 
-![Profile views](https://gpvc.arturio.dev/Dev-Destructor)
+<!-- ![Profile views](https://gpvc.arturio.dev/Dev-Destructor) -->
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dev-Destructor&theme=dracula)
 
