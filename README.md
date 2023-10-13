@@ -6,12 +6,12 @@
   , I'm Debobrata Pal
   </h2>
 <h3 align="center">
-  A young professional who is self-motivated and eager to work on Full Stack Web Development, Devops and Cloud Technology.
+  A young professional who is self-motivated and eager to work on Full Stack Web Development, DevOps and Cloud Technology.
 </h3>
 
 - 🔭 I’m currently working on **Open Source Contribution**
 - 🌱 I’m currently learning **Different System Architectures**
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **MERN Stack, AWS, DevOps etc.**
 - 📫 How to reach me: **contact@debobrata.me**
 - ⚡ Fun fact: I’m a **self-taught programmer**
