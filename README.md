@@ -31,8 +31,8 @@
 
 |       💼 Designation        | 🏢Organization |        ⏰Duration        |
 | :-------------------------: | :------------: | :----------------------: |
-| Full-Stack Developer Intern |  mynext.guru   | October 2021 - July 2022 |
-|    Full-Stack Developer     |  mynext.guru   |  August 2022 - present   |
+| Software Development Engineer |  GoskyTech Softwares   | October 2021 - present |
+|    DevOps Engineer     |  ProjectX   |  October 2023 - present   |
 
 <Br />
 
@@ -44,14 +44,17 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.mathworks.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+<a href="https://docs.oracle.com/javase/8/docs" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>        
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://go.dev/doc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
