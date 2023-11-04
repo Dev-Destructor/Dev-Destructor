@@ -92,9 +92,6 @@
 <a href="https://kubernetes.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 </a>
-<a href="https://landscape.cncf.io//" target="_blank">
-  <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/b4mcli42sxbwudpziimi" alt="cloud native" width="40" height="40"/>
-</a>
 <a href="https://www.ansible.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
 </a>
