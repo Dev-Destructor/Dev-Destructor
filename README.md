@@ -31,7 +31,7 @@
 
 |       💼 Designation        | 🏢Organization |        ⏰Duration        |
 | :-------------------------: | :------------: | :----------------------: |
-| Software Development Engineer |  GoskyTech Softwares   | October 2021 - present |
+| Software Development Engineer |  GoskyTech Softwares   | October 2021 - September 2023 |
 |    DevOps Engineer     |  ProjectX   |  October 2023 - present   |
 
 <Br />
