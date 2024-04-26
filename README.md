@@ -9,8 +9,8 @@
   A young professional who is self-motivated and eager to work on Full Stack Web Development, DevOps and Cloud Technology.
 </h3>
 
-- 🔭 I’m currently working on **Open Source Contribution**
-- 🌱 I’m currently learning **Different System Architectures**
+- 🔭 I’m currently working on **Creating Custom Controllers**
+- 🌱 I’m currently learning **Cloud Native Tools**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **MERN Stack, AWS, DevOps etc.**
 - 📫 How to reach me: **contact@debobrata.me**
