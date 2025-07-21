@@ -6,14 +6,14 @@
   , I'm Debobrata Pal
   </h2>
 <h3 align="center">
-  A young professional who is self-motivated and eager to work on Full Stack Web Development, DevOps and Cloud Technology.
+  A young professional who is self-motivated and eager to work on Cloud-Native, Automation and Cloud Technology.
 </h3>
 
 - 🔭 I’m currently working on **Creating Custom Controllers**
 - 🌱 I’m currently learning **Cloud Native Tools**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **MERN Stack, AWS, DevOps etc.**
-- 📫 How to reach me: **contact@debobrata.me**
+- 📫 How to reach me: **dev.debobratapal@gmail.com**
 - ⚡ Fun fact: I’m a **self-taught programmer**
 
 ## Contact Me
@@ -31,8 +31,9 @@
 
 |       💼 Designation        | 🏢Organization |        ⏰Duration        |
 | :-------------------------: | :------------: | :----------------------: |
-| Software Development Engineer |  GoskyTech Softwares   | October 2021 - September 2023 |
-|    DevOps Engineer    |  ProjectX   |  October 2023 - present   |
+| Software Engineer Intern |  GoskyTech Softwares   | October 2021 - September 2023 |
+|    DevOps Engineer    |  ProjectX   |  October 2023 - April 2025   |
+|    Software Engineer    |  Rebaca Technologies   |  April 2025 - present   |
 
 <Br />
 
