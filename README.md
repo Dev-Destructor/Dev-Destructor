@@ -9,10 +9,10 @@
   A young professional who is self-motivated and eager to work on Cloud-Native, Automation and Cloud Technology.
 </h3>
 
-- 🔭 I’m currently working on **Creating Custom Controllers**
-- 🌱 I’m currently learning **Cloud Native Tools**
+- 🔭 I’m currently working on **Building AI Agents**
+- 🌱 I’m currently learning **Multi Agent Systems**
 - 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **MERN Stack, AWS, DevOps etc.**
+- 💬 Ask me about **AWS, DevOps, Agentic Workflows**
 - 📫 How to reach me: **dev.debobratapal@gmail.com**
 - ⚡ Fun fact: I’m a **self-taught programmer**
 
@@ -122,15 +122,3 @@
 </a>
 
 <Br />
-
-## Github Stats
-
-<!-- ![Profile views](https://gpvc.arturio.dev/Dev-Destructor) -->
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dev-Destructor&theme=dracula)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Destructor&theme=dracula&show_icons=true&count_private=true&locale=en&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dev-Destructor&theme=dracula&show_icons=true&count_private=true&locale=en)
-
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Destructor&theme=dracula&)
